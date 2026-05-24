@@ -123,6 +123,17 @@ export const portfolioData = {
           "https://teriuni-my.sharepoint.com/personal/ananya_g_terisas_ac_in/_layouts/15/guestaccess.aspx?share=IQD6jqVQMWimR6FJxOnPR6hZAUPzKkVf1FKL5cY1jm9W6Ts&rtime=C2ZOTX-53kg",
         workbookLabel: "View Excel workbook",
       },
+      {
+        id: 2,
+        title: "Employee Water Footprint Calculator",
+        tag: "ESG · Digital Tool",
+        period: "2026",
+        highlights: [
+          "Built an interactive web calculator from scratch using HTML, CSS, and JavaScript",
+          "Helps employees understand and reduce individual water consumption patterns",
+          "Aligns with corporate water stewardship goals and employee engagement initiatives",
+        ],
+      },
     ],
   },
   skills: {
