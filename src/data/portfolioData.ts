@@ -5,16 +5,16 @@
 
 export const portfolioData = {
   hero: {
-    fullName: "Ananya C G",
-    role: "Sustainability & Finance Professional | ESG Analyst",
-    subtitle:
-      "MBA graduate with expertise in sustainability management and financial modeling. Passionate about building scalable solutions for environmental impact and corporate ESG strategy.",
-    profileImage: "/ananya_pfp.jpg",
-    cta: {
-      primary: { label: "Get In Touch", href: "mailto:ananya2girish@gmail.com" },
-      secondary: { label: "Resume", href: "/resume.pdf" },
-    },
+  fullName: "Ananya C G",
+  role: "Energy Transition & Sustainable Finance Analyst",
+  subtitle:
+    "MBA graduate working at the intersection of energy transition, financial modelling, and industrial decarbonization, with experience in techno-economic analysis and sustainability strategy.",
+  profileImage: "/ananya_pfp.jpg",
+  cta: {
+    primary: { label: "Get In Touch", href: "mailto:ananya2girish@gmail.com" },
+    secondary: { label: "Resume", href: "/resume.pdf" },
   },
+},
   navigation: [
     { label: "About", href: "#about" },
     { label: "Experience", href: "#experience" },
@@ -23,9 +23,9 @@ export const portfolioData = {
     { label: "Contact", href: "#contact" },
   ],
   about: {
-    heading: "Professional Journey",
-    subheading:
-      "From agriculture to sustainability: Building a career in ESG and climate finance",
+  heading: "Professional Journey",
+  subheading:
+    "From agriculture to energy transition: Building a career in sustainable finance and industrial decarbonization",
     summary:
       "MBA graduate in Sustainability Management with a strong foundation in Agricultural Marketing. Specialized experience in ESG data management, financial modeling for renewable energy projects, and building scalable solutions for environmental impact. Proven expertise in conducting gap assessments, developing carbon reduction strategies, and translating complex sustainability frameworks into actionable business initiatives.",
   },
@@ -64,7 +64,7 @@ export const portfolioData = {
         description: "Leading ESG data management and sustainability initiatives",
         achievements: [
           "Conducted Eco Vadis and CDP gap assessments, performing ESG data validation, quality checks, and gap analysis to strengthen reporting accuracy and compliance readiness",
-          "Built a custom Employee Water Footprint Calculator from scratch using HTML, CSS, and JavaScript to help employees understand and reduce their individual water usage, supporting the company's broader water stewardship goals",
+          "•	Built a custom Employee Water Footprint Calculator from scratch using HTML, CSS, and JavaScript to help employees understand and reduce their individual water usage, support awareness initiatives across an estimated 200+ employees and contribute to the company’s broader water stewardship objectives.",
         ],
       },
       {
@@ -99,7 +99,7 @@ export const portfolioData = {
         location: "Guntur, Andhra Pradesh",
         description: "Digital innovation in agricultural advisory services",
         achievements: [
-          "Designed and localized digital crop advisories for 10 millet and pulse crops on the ITC MAARS app, reaching stakeholders across 10 states",
+          "Designed and localized digital crop advisories for 10 millet and pulse crops on the ITC MAARS app, contributing to a digital agriculture platform impacting over 1.7–2.2 million farmers across 10+ states through AI-enabled and climate-smart advisory solutions.",
         ],
       },
     ],
